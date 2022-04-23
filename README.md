@@ -7,4 +7,4 @@
 2. Система контроля версий Git & GitHub
 
  
-<img src="C:\Users\nmak1\IdeaProjects\GIT-course\img\87.jpg" title="Картинка"/>
+<img src="https://github.com/nmak1/GIT-course/blob/master/img/87.jpg" title="Картинка"/>
