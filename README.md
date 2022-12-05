@@ -7,4 +7,4 @@
 2. Система контроля версий Git & GitHub
 
  
-<img/87.jpg" title="Картинка"/>
+<https://github.com/nmak1/GIT-course/blob/master/img/87.jpg" title="Картинка"/>
