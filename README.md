@@ -3,7 +3,7 @@
 программа Java-разработчик вот на неё ссылка [Java-разработчик](https://netology.ru/programs/java-developer)   
 
 ### На сегоднешний день я прошёл :  
-1. Основы Java
+1. Основы Pyhton
 2. Система контроля версий Git & GitHub
 
  
